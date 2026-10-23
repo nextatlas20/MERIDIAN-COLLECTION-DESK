@@ -1,0 +1,6 @@
+object_id,title,gallery,inspection_date,condition,humidity
+OB-101,Marsh Light,North,2042-08-10,STABLE,45
+OB-102,Copper Bird,East,2042-08-11,MONITOR,52
+OB-103,Glass Tide,North,2042-08-11,STABLE,48
+OB-104,Paper Moon,West,2042-08-12,MONITOR,61
+OB-105,Stone Field,East,2042-08-12,STABLE,55

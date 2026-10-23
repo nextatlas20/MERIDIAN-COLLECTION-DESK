@@ -1,0 +1,3 @@
+Condition desk rulebook
+
+A record enters the attention queue when condition is MONITOR or humidity is at least 55.

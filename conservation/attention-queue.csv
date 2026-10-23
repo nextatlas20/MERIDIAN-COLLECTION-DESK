@@ -1,0 +1,4 @@
+object_id,title,gallery,condition,humidity,reason
+OB-104,Paper Moon,West,MONITOR,61,MONITOR_AND_HIGH_HUMIDITY
+OB-105,Stone Field,East,STABLE,55,HIGH_HUMIDITY
+OB-102,Copper Bird,East,MONITOR,52,MONITOR
